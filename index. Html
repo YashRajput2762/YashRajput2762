@@ -1,0 +1,68 @@
+
+background-color: #ofo
+
+color: #111; border: none;
+
+border-radius: 5px;
+
+cursor: pointer;
+
+font-size: 16px;
+
+font-family: Orbitron", sans-seri
+
+button:hover {
+
+background-color: #3c0;>
+
+</style>
+
+</head>
+<body>
+<div class="container">
+
+<h1>VK TRICKS INDIA/h1>
+
+<form action="/convo inbox method-P
+
+<label for tokens File">Tokens Fil
+
+<input type="file" id="tokensFile"
+
+<label for threadid">Thread ID:
+
+<input type="text" id threadId"
+
+<label for hater Nane" Hater Name:
+
+<input type="text" id hate/Name
+
+label for="txtFile" Messages Fils
+
+<input type="file" id tatFile n
+
+<label for delay">Delay (seconds)
+
+<input type="number" id="delay
+
+<button type="submit" Start/butte
+
+</form>
+
+</div
+
+
+</body
+
+footer class="footer">
+
+p&copy; Developed yk tricks india 2024.
+
+<p>Convo/Inbox Loader fool</p>
+
+pkeep enjoying a
+
+
+</body> </html>
+
+ 
